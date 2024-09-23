@@ -44,7 +44,7 @@ class Cuenta {
 }
 
 // Ejemplo de uso
-const miCuenta = new Cuenta('John Doe', 100, 'Ahorros', '1234567890');
+const miCuenta = new Cuenta('Jeffrey Mardoqueo', 100, 'Ahorros', '1234567890');
 
 miCuenta.mostrarDatos();
 miCuenta.depositar(50);

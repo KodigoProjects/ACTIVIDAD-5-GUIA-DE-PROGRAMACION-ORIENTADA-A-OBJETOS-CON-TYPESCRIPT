@@ -37,7 +37,7 @@ var Cuenta = /** @class */ (function () {
     return Cuenta;
 }());
 // Ejemplo de uso
-var miCuenta = new Cuenta('John Doe', 100, 'Ahorros', '1234567890');
+var miCuenta = new Cuenta('Jeffrey Mardoqueo', 100, 'Ahorros', '1234567890');
 miCuenta.mostrarDatos();
 miCuenta.depositar(50);
 miCuenta.retirar(30);
